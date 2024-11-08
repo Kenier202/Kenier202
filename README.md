@@ -22,7 +22,7 @@
 
 ✔️ Ask me about anything, I’m happy to help!
 
-👾 Outside of tech, I enjoy learning about new programming tools and creating content on tech and development—feel free to check out my profile!
+👾 I enjoy learning about new programming tools and creating content on tech and development—feel free to check out my profile!
 
 📫 You can reach me at: [ kenier202@gmail.com ]
 
