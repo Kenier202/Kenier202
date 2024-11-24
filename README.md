@@ -16,8 +16,6 @@
   - PostGres
   - SQL Server
 
-🎯 Right now, I’m aiming to collaborate on open-source projects and learn advanced techniques to optimize application performance. I’m also preparing to secure my first job in the tech field, where I can apply and grow my skills.
-
 ✔️ Ask me about anything, I’m happy to help!
 
 👾 I enjoy learning about new programming tools and creating content on tech and development—feel free to check out my profile!
