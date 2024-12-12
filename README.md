@@ -26,7 +26,7 @@
 
 <h4> Technologies </h4>
 <span> 
-  <img src="https://skillicons.dev/icons?i=js,html,css,php,cs,angular,typescript,dotnet,flutter">
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,cs,dotnet,angular,typescript,flutter">
 </span>
 
 <h4> Database</h4>
