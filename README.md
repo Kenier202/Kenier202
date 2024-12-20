@@ -5,7 +5,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-👨‍💻 Hi, I’m Kenier Morales, a final-year Systems Engineering student and passionate software developer. Currently, I work as a Systems Engineer at Cargoban Operador Logístico, where I lead web development projects and optimize technological processes to improve efficiency in an export-focused company.
+👨‍💻 Hi, I’m Kenier Morales, a Systems Engineering and passionate software developer. Currently, I lead web development projects and optimize technological processes to improve efficiency in an export-focused company.
 
 🌱 I’m expanding my knowledge in ...
 - **Front-end**:
