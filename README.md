@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" align="right" height= "250px" margin-top= "50px" />
 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+***About me***
 
 👨‍💻 Hi, I’m Kenier Morales, a Systems Engineering and passionate software developer. Currently, I lead web development projects and optimize technological processes to improve efficiency in an export-focused company.
 
